@@ -1,0 +1,22 @@
+{
+  "name": "e2e-testing-cypress",
+  "version": "0.0.1",
+  "description": "testing cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjarte1234567/e2e-testing-cypress.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "bjarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjarte1234567/e2e-testing-cypress/issues"
+  },
+  "homepage": "https://github.com/bjarte1234567/e2e-testing-cypress#readme"
+}
