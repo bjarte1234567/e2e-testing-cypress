@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/bjarte1234567/e2e-testing-cypress/issues"
   },
-  "homepage": "https://github.com/bjarte1234567/e2e-testing-cypress#readme"
+  "homepage": "https://github.com/bjarte1234567/e2e-testing-cypress#readme",
+  "devDependencies": {
+    "cypress": "^13.3.3",
+    "eslint-plugin-cypress": "^2.15.1"
+  }
 }
