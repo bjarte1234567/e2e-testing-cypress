@@ -20,7 +20,10 @@
   },
   "homepage": "https://github.com/bjarte1234567/e2e-testing-cypress#readme",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.9.0",
+    "@typescript-eslint/parser": "^6.9.0",
     "cypress": "^13.3.3",
+    "eslint": "^8.52.0",
     "eslint-plugin-cypress": "^2.15.1"
   }
 }
